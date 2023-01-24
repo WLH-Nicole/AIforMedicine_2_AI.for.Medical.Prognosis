@@ -1,1 +1,2 @@
-# AIforMedicine_2_AI.for.Medical.Prognosis
+# AI for Medical Prognosis
+## (Coursera - AI for Medicine Specialization)
